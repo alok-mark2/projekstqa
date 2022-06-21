@@ -1,0 +1,14 @@
+D:\Downloads\STQA_Documentasi-master\STQA_Documentasi-master\ProjectUASPABD\bin\Debug\ProjectUASPABD.exe.config
+D:\Downloads\STQA_Documentasi-master\STQA_Documentasi-master\ProjectUASPABD\bin\Debug\ProjectUASPABD.exe
+D:\Downloads\STQA_Documentasi-master\STQA_Documentasi-master\ProjectUASPABD\bin\Debug\ProjectUASPABD.pdb
+D:\Downloads\STQA_Documentasi-master\STQA_Documentasi-master\ProjectUASPABD\obj\Debug\ProjectUASPABD.csproj.AssemblyReference.cache
+D:\Downloads\STQA_Documentasi-master\STQA_Documentasi-master\ProjectUASPABD\obj\Debug\ProjectUASPABD.loginpage.resources
+D:\Downloads\STQA_Documentasi-master\STQA_Documentasi-master\ProjectUASPABD\obj\Debug\ProjectUASPABD.Barang.resources
+D:\Downloads\STQA_Documentasi-master\STQA_Documentasi-master\ProjectUASPABD\obj\Debug\ProjectUASPABD.Form3.resources
+D:\Downloads\STQA_Documentasi-master\STQA_Documentasi-master\ProjectUASPABD\obj\Debug\ProjectUASPABD.Kasbon.resources
+D:\Downloads\STQA_Documentasi-master\STQA_Documentasi-master\ProjectUASPABD\obj\Debug\ProjectUASPABD.Menu.resources
+D:\Downloads\STQA_Documentasi-master\STQA_Documentasi-master\ProjectUASPABD\obj\Debug\ProjectUASPABD.Properties.Resources.resources
+D:\Downloads\STQA_Documentasi-master\STQA_Documentasi-master\ProjectUASPABD\obj\Debug\ProjectUASPABD.csproj.GenerateResource.cache
+D:\Downloads\STQA_Documentasi-master\STQA_Documentasi-master\ProjectUASPABD\obj\Debug\ProjectUASPABD.csproj.CoreCompileInputs.cache
+D:\Downloads\STQA_Documentasi-master\STQA_Documentasi-master\ProjectUASPABD\obj\Debug\ProjectUASPABD.exe
+D:\Downloads\STQA_Documentasi-master\STQA_Documentasi-master\ProjectUASPABD\obj\Debug\ProjectUASPABD.pdb
